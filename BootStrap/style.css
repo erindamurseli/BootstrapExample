@@ -1,0 +1,97 @@
+.navbar-custom{
+	background: rgb(2,0,36);
+	height: 60px;
+	margin-top: 10px;
+	border-radius: 25px;
+
+}
+
+.navbar-custom li{
+    display: inline;
+    padding: 0.5em 2em;
+    font-weight: bold;
+	border: solid 1px ;
+	
+}
+
+
+
+
+body{
+	background-color: #305076;
+}
+
+.top-info{
+	text-align: center;
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.top-info h1{
+	color: #fff;
+
+}
+
+.top-info p{
+	color: #b46b7e;
+	font-size: 30px;
+
+}
+
+.content .row{
+	margin-left: 150px;
+	margin-right: 150px;
+	background: rgb(2,0,36);
+	}
+
+.content .row .col .card {
+	size: 400px;
+	}
+
+.content .text{
+	font-size: 35px;
+	text-decoration:underline;
+	color: #fff;
+	text-align: center; 
+	margin-bottom: 20px;
+}
+.show-more .collapse {
+	background-color: #242426;
+
+}
+.show-more p .btn{
+	margin-top: 20px;
+ padding-left: 100px;
+ padding-right: 100px;
+margin-right: 200px;
+	margin-left: 150px;
+	background: rgb(2,0,36);
+		}
+
+.btn-primary{
+	float: center;
+}
+
+
+.footer {
+	color: #fff;
+	text-align:center;
+	margin-top: 50px;
+background-color: #305076;
+	height: 200px;
+
+}
+
+
+.footer .nav .nav-item a{
+	background-color: #305076;
+	border-radius: 25px;
+}
+
+.footer .nav .nav-item a img{
+	background-color: #305076;
+	height: 25px;
+	border-radius: 25px;
+	margin-right: 4px;
+}
+
